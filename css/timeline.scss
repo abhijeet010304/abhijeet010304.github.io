@@ -63,7 +63,7 @@
     width: 80px;
     height: 80px;
     margin-left: 0;
-    border: 7px solid #f1f1f1;
+    border: 4px solid #f1f1f1;
     border-radius: 100%;
     text-align: center;
     color: #fff;
@@ -129,7 +129,9 @@
 }
 
 .timeline .timeline-body>p,
-.timeline .timeline-body>ul {
+.timeline .timeline-body>ul 
+{
+	font-size: 23px;
     margin-bottom: 0;
 }
 
@@ -140,7 +142,7 @@
 
     .timeline>li {
         margin-bottom: 100px;
-        min-height: 100px;
+        min-height: 10px;
     }
 
     .timeline>li .timeline-panel {
@@ -229,8 +231,8 @@
     }
 
     .timeline>li .timeline-image {
-        width: 170px;
-        height: 170px;
+        width: 160px;
+       height: 160px;
         margin-left: -85px;
     }
 

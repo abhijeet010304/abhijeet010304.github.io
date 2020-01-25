@@ -66,6 +66,7 @@ div {
   user-select: text;
 }
 
+
 a {
     color: $secondary-color;
     -webkit-transition: all .2s ease-in-out;
@@ -229,6 +230,44 @@ a {
         -moz-transform: scale(1);
         transform: scale(1);
     }
+}
+.button {
+         background-color: black;
+         border: 2px solid white;
+	 border-radius: 8px ;
+         color: white;
+         padding: 10px 24px;
+         text-align: center;
+         text-decoration: none;
+         display: inline-block;
+         font-size: 20px;
+         margin: 4px 2px;
+         cursor: pointer;
+         }
+
+.button:hover
+{
+	background-color: white ;
+	color: black ;
+}
+mydiv {
+  background-color: black;
+  width: 20px;
+  border-radius: 8px ;
+  border: 3px solid white;
+  padding: 10px;
+  margin: 10px;
+}
+@media screen and (max-width : 1204px)
+{
+  mydiv {
+  background-color: black;
+  width: 20px;
+  border-radius: 8px ;
+  border: 3px solid white;
+  padding: 10px;
+  margin: 10px;
+}
 }
 
 .content-section {
