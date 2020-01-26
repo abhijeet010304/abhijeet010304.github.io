@@ -133,15 +133,15 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/gh1.png"
-    description: <a href="https://www.github.com/abhijeet010304/" target="_blank">GITHUB ID </a>
+    description: <a href="https://www.github.com/abhijeet010304/" target="_blank">GITHUB  </a>
   - image: "/img/timeline/cc.png"
-    description: <a href="https://www.codechef.com/users/abhijeet010304/" target="_blank">CODECHEF ID </a>
+    description: <a href="https://www.codechef.com/users/abhijeet010304/" target="_blank">CODECHEF  </a>
   - image: "/img/timeline/cf2.png"
-    description: <a href="https://www.codeforces.com/profile/abhijeet010304/" target="_blank">CODEFORCES ID </a>
+    description: <a href="https://www.codeforces.com/profile/abhijeet010304/" target="_blank">CODEFORCES  </a>
   - image: "/img/timeline/ll.png"
-    description: <a href="https://www.linkedin.com/in/abhijeet010304/" target="_blank">LINKED-IN ID </a>
+    description: <a href="https://www.linkedin.com/in/abhijeet010304/" target="_blank">LINKEDIN  </a>
   - image: "/img/timeline/fb.png"
-    description:  <a href="https://www.facebook.com/abhijeet.gupta.5209" target="_blank">FACEBOOK ID</a>
+    description:  <a href="https://www.facebook.com/abhijeet.gupta.5209" target="_blank">FACEBOOK </a>
 
 
 # First image of the Timeline
